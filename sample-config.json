@@ -1,0 +1,21 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "AA:AA:AA:AA:AA:AA",
+        "port": 45433,
+        "pin": "999-99-999"
+    },
+    
+    "description": "Home",
+
+    "platforms": [],
+
+    "accessories": [
+            {
+                "accessory": "SimpleSensiboSwitch",
+                "name": "Sensibo",
+                "apiKey": "[apiKey]",
+                "device":"[device]"
+            }
+        ]
+}
