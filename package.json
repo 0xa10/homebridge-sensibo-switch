@@ -1,7 +1,7 @@
 {
   "name": "homebridge-sensibo-switch",
-  "version": "0.0.1",
-  "description": "Sensibo on/off switch",
+  "version": "0.0.2",
+  "description": "Sensibo on/off switch, based on https://www.npmjs.com/package/homebridge-http-simple-switch",
   "license": "The Unlicense",
   "keywords": [
     "homebridge-plugin"

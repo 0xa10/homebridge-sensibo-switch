@@ -1,6 +1,7 @@
 # homebridge-sensibo-switch
 
 Simple Sensibo homebridge plugin
+Based on https://github.com/lucacri/homebridge-http-simple-switch
 
 # Installation
 
